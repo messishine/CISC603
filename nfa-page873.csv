@@ -1,0 +1,13 @@
+state,0,1,,
+s0,{s0,s1},s3,
+s1,s0,{s1,s3},
+s2,,{s0,s2},
+s3,{s0,s1,s2},s1
+,,,,
+,,,,
+NFA Table in Use,,,,
+State,0,1,,
+A,"{A,B}",A,,
+B,C,C,,
+C,D,D,,
+D,,,,
